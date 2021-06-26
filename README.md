@@ -1,2 +1,2 @@
-# DECBot_Docker
-Containerized DECBot
+# DECTalk4_win32_bin
+DECTalk4 - Minimum files needed to use say.exe
